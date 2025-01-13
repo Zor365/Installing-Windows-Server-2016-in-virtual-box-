@@ -45,36 +45,36 @@ It loads a blue boot screen then the setup screen
 Pick the language, time and keyboard formats as you need, hit next then hit install now
 <img src="Folder/install-next.PNG">
 <img src="Folder/install-now.PNG">
-<img src="Folder/dsktp-exprience.PNG">
-<img src="">
+
+
 
 
 
 It will ask which version to pick. Pick the ones with desktop experience, choose the server 2016 standard with desktop experience and hit next 
-<img src="">
+<img src="Folder/dsktp-exprience.PNG">
 
 Agree with the license terms, hit next
-<img src="">
+<img src="Folder/accept-license.PNG">
 Type of install, choose custom
-<img src="">
+<img src="Folder/custom.PNG">
 
 Make sure the drive is selected, hit next
-<img src="">
+<img src="Folder/driver-select-next.PNG">
 
 It will go through the install and when done, let it restart. Click nothing as it boots-up into the setup, let it finish
-<img src="">
-
+<img src="Folder/finish-installing-windows-2.PNG">
+<img src="Folder/finish-installing-windows-restart.PNG">
 
 Set up password for the administrator account. 
-<img src="">
+<img src="Folder/setup-password-finish.PNG">
 >input>keyboard>insert ctrl, alt, delete to unlock
-<img src="">
+<img src="Folder/press-ctrl-alt-delete-to-unlock.PNG">
 
 Enter the password as it logs in the account for the first time
-<img src="">
+<img src="Folder/password.PNG">
 
 Then finally the desktop will load up
-<img src="">
+<img src="Folder/finish-finally.PNG">
 
 
 
