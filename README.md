@@ -2,7 +2,7 @@
 
 <h1>Step 1 : Download Windows Server 2016 ISO</h1>
 <a href="https://www.microsoft.com/en-us/evalcenter/download-windows-server-2016">Click here</a> to visit the Official Microsoft site and download Windows Server 2016 ISO 60-bit edition and start the download.
-<img src="">
+<img src="Folder/stp-1-download-wn-server-2016-iso.PNG">
 
 <h1>Step 2: Create a New Virtual Machine</h1>
 If you haven’t downloaded and installed virtual box, I have created a guide here  on how to go about it. Open Virtual-box and click on ‘New’ to create a new virtual machine.
