@@ -43,7 +43,9 @@ Click 'Start' to start the virtual machine, or rather start installing the serve
 <h2>Setting Up Windows Server 2016:</h2>
 It loads a blue boot screen then the setup screen
 Pick the language, time and keyboard formats as you need, hit next then hit install now
-<img src="">
+<img src="Folder/install-next.PNG">
+<img src="Folder/install-now.PNG">
+<img src="Folder/dsktp-exprience.PNG">
 <img src="">
 
 
