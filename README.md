@@ -18,14 +18,17 @@ Recommended to have at least 2GB of Base Memory. You could increase if your syst
 <img src="Folder/atleast-2-gb.PNG">
 
 Cycle through and complete by clicking Finish to create your virtual machine.
-<img src="">
+<img src="Folder/finish.PNG">
 
 
 
 
 <h2>Configure VM settings:</h2>
 Next go to the Virtual Machine ‘settings’ go to the storage tab, empty disk, locating where you downloaded server 2016 ISO and get it inserted. Then click OK.
-<img src="">
+<img src="Folder/iso-image.PNG">
+<img src="Folder/iso-image-insert.PNG">
+<img src="Folder/iso-image-insert-ok.PNG">
+
 
 
 
@@ -33,12 +36,14 @@ Next go to the Virtual Machine ‘settings’ go to the storage tab, empty disk,
 
 
 <h1>Step 3: Start up the virtual machine</h1>
-<img src="">
+Click 'Start' to start the virtual machine, or rather start installing the server.
+
 
 
 <h2>Setting Up Windows Server 2016:</h2>
 It loads a blue boot screen then the setup screen
 Pick the language, time and keyboard formats as you need, hit next then hit install now
+<img src="">
 <img src="">
 
 
