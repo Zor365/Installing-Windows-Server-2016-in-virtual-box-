@@ -1,4 +1,4 @@
-# Installing-Windows-Server-2016-on-virtual-box-
+`# Installing-Windows-Server-2016-on-virtual-box-
 
 <h1>Step 1 : Download Windows Server 2016 ISO</h1>
 <a href="https://www.microsoft.com/en-us/evalcenter/download-windows-server-2016">Click here</a> to visit the Official Microsoft site and download Windows Server 2016 ISO 60-bit edition and start the download.
@@ -51,14 +51,19 @@ Pick the language, time and keyboard formats as you need, hit next then hit inst
 
 
 It will ask which version to pick. Pick the ones with desktop experience, choose the server 2016 standard with desktop experience and hit next 
+
 <img src="Folder/dsktp-exprience.PNG">
 
 Agree with the license terms, hit next
+
 <img src="Folder/accept-license.PNG">
+
 Type of install, choose custom
+
 <img src="Folder/custom.PNG">
 
 Make sure the drive is selected, hit next
+
 <img src="Folder/driver-select-next.PNG">
 
 It will go through the install and when done, let it restart. Click nothing as it boots-up into the setup, let it finish
