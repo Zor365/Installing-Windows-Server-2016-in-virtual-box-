@@ -6,7 +6,7 @@
 
 <h1>Step 2: Create a New Virtual Machine</h1>
 If you haven’t downloaded and installed virtual box, I have created a guide here  on how to go about it. Open Virtual-box and click on ‘New’ to create a new virtual machine.
-<img src="">
+<img src="Folder/create-new-vm.PNG">
 
 <h2>Name your machine:</h2>
 You are at liberty to call it ‘windows server 2016 ’ and it should automatically change the version to windows 2016 64-bit, so make sure that's highlighted if it didn't automatically do it.
