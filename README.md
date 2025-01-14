@@ -73,7 +73,7 @@ It will go through the install and when done, let it restart. Click nothing as i
 Set up password for the administrator account. 
 <img src="Folder/setup-password-finish.PNG">
 >input>keyboard>insert ctrl, alt, delete to unlock
-<img src="Folder/press-ctrl-alt-delete-to-unlock.PNG">
+<img src="Folder/press-ctrl-alt-delete-to-unlock.PNG" width="500" height="500">
 <img src="Folder/Screenshot (7179).png">
 
 Enter the password as it logs in the account for the first time
