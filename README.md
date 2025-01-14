@@ -19,6 +19,7 @@ Recommended to have at least 2GB of Base Memory. You could increase if your syst
 
 Cycle through and complete by clicking Finish to create your virtual machine.
 <br>
+<hr>
 <img src="Folder/finish.PNG">
 
 
