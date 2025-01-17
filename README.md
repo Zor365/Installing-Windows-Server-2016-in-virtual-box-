@@ -1,8 +1,5 @@
 `# Installing-Windows-Server-2016-on-virtual-box-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+
 </picture><h1>Step 1 : Download Windows Server 2016 ISO</h1>
 <a href="https://www.microsoft.com/en-us/evalcenter/download-windows-server-2016">Click here</a> to visit the Official Microsoft site and download Windows Server 2016 ISO 60-bit edition and start the download.
 <img src="Folder/stp-1-download-wn-server-2016-iso.PNG" height='200' weidth='300'>
